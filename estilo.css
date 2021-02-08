@@ -21,11 +21,11 @@ p {
     color: black;    
 }
 
-.grey {
+.suave {
     color: rgb(122, 117, 116);
 }
 
-.center {
+.medio {
     text-align: center;
 }
 
@@ -40,4 +40,6 @@ a {
     color: rgb(122, 117, 116);
 }
 
-
+li.sinpunto {
+    list-style-type: none;
+}
