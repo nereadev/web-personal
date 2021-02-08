@@ -1,0 +1,43 @@
+body {
+    background-color:lemonchiffon;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    color:indianred;
+    text-decoration-line: line-through;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+}
+
+h3 {
+    color:rgb(122, 119, 78);
+}
+
+p {
+    color: black;    
+}
+
+.grey {
+    color: rgb(122, 117, 116);
+}
+
+.center {
+    text-align: center;
+}
+
+nav {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: lightslategrey;
+    text-align: center;
+}
+
+a {
+    text-decoration: inherit;
+    color: rgb(122, 117, 116);
+}
+
+
